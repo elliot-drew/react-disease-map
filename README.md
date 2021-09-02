@@ -1,3 +1,14 @@
+# react-disease-map
+
+A one page app that I made a while back when learning React.
+
+Data was obtained using the GBD results tool:
+
+Global Burden of Disease Collaborative Network.
+Global Burden of Disease Study 2017 (GBD 2017) Results.
+Seattle, United States: Institute for Health Metrics and Evaluation (IHME), 2018.
+Available from http://ghdx.healthdata.org/gbd-results-tool.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
